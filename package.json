@@ -35,6 +35,7 @@
     "@types/react": "^16.9.34",
     "@types/react-dom": "^16.9.6",
     "@types/styled-components": "^5.1.0",
+    "@types/webfontloader": "^1.6.32",
     "@typescript-eslint/eslint-plugin": "^3.4.0",
     "@typescript-eslint/parser": "^3.4.0",
     "babel-loader": "^8.1.0",
@@ -69,8 +70,10 @@
   },
   "dependencies": {
     "react": "^16.13.1",
+    "react-countdown-hook": "^1.1.0",
     "react-dom": "^16.13.1",
-    "styled-components": "^5.1.1"
+    "styled-components": "^5.1.1",
+    "webfontloader": "^1.6.28"
   },
   "build": {
     "appId": "your.id",
